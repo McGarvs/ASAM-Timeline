@@ -17,9 +17,7 @@ if __name__ == "__main__":
         info = list(filter(lambda x: notEmpty(x), info))
         for i in range(len(info)):
             info[i] = tuple([info[i][0], info[i][1][1:]])
-            # print(info[i])
         newinfo = convert(info)
-        print(newinfo)
         jsonString = json.dumps(newinfo)
         jsonFile = open("data.json", "w")
         jsonFile.write(jsonString)
