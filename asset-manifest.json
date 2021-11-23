@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/asam-timeline/static/css/main.b1cb90a8.chunk.css",
-    "main.js": "/asam-timeline/static/js/main.6c77ef6c.chunk.js",
-    "main.js.map": "/asam-timeline/static/js/main.6c77ef6c.chunk.js.map",
+    "main.css": "/asam-timeline/static/css/main.c536a4b4.chunk.css",
+    "main.js": "/asam-timeline/static/js/main.cd887900.chunk.js",
+    "main.js.map": "/asam-timeline/static/js/main.cd887900.chunk.js.map",
     "runtime-main.js": "/asam-timeline/static/js/runtime-main.551423a9.js",
     "runtime-main.js.map": "/asam-timeline/static/js/runtime-main.551423a9.js.map",
     "static/js/2.d32b1d00.chunk.js": "/asam-timeline/static/js/2.d32b1d00.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.5f2d309a.chunk.js": "/asam-timeline/static/js/3.5f2d309a.chunk.js",
     "static/js/3.5f2d309a.chunk.js.map": "/asam-timeline/static/js/3.5f2d309a.chunk.js.map",
     "index.html": "/asam-timeline/index.html",
-    "static/css/main.b1cb90a8.chunk.css.map": "/asam-timeline/static/css/main.b1cb90a8.chunk.css.map",
+    "static/css/main.c536a4b4.chunk.css.map": "/asam-timeline/static/css/main.c536a4b4.chunk.css.map",
     "static/js/2.d32b1d00.chunk.js.LICENSE.txt": "/asam-timeline/static/js/2.d32b1d00.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.551423a9.js",
     "static/js/2.d32b1d00.chunk.js",
-    "static/css/main.b1cb90a8.chunk.css",
-    "static/js/main.6c77ef6c.chunk.js"
+    "static/css/main.c536a4b4.chunk.css",
+    "static/js/main.cd887900.chunk.js"
   ]
 }
