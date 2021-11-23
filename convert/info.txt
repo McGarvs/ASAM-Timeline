@@ -15,9 +15,9 @@ Desc: Royal Order prohibiting Asian Slave trade
 Comment:
 
 Date: December 16, 1773
-Desc: Boston Tea Party: Americans dump 342 chests of tea from EIC ships to protest British tyranny and taxation
+Desc: The Boston Tea Party, where Americans dump 342 chests of tea from EIC ships to protest British tyranny and taxation
 Comment: Growing trade with China, East-West Trade Relations
 
 Date: February 22, 1784
-Desc: First US trade with china: the Empress of China, departs from New York and returns 15 months later ladened with luxury chinese goods
-Comment: Chinese goods were seen as exotic and luxurious
+Desc: First US trade with china, where the Empress of China, departs from New York and returns 15 months later ladened with luxury chinese goods
+Comment: Chinese goods were seen as exotic and luxurious 
