@@ -7,8 +7,8 @@ def notEmpty(l):
 def convert(mylist):
     dictList = []
     while mylist != []:
-        dictList.append(dict(mylist[0:3]))
-        mylist = mylist[3:]
+        dictList.append(dict(mylist[0:4]))
+        mylist = mylist[4:]
     return dictList
 
 if __name__ == "__main__":
