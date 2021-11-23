@@ -4,9 +4,6 @@
     <list default="true" id="b0306605-c4fd-4181-b58a-e832d8cc2c04" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Event.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Event.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Events.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Events.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/convert/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/convert/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/convert/info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/convert/info.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637635865665</updated>
       <workItem from="1637635866957" duration="6686000" />
-      <workItem from="1637647315808" duration="11519000" />
+      <workItem from="1637647315808" duration="11793000" />
     </task>
     <servers />
   </component>
