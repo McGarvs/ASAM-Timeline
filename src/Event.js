@@ -11,9 +11,8 @@ function Event(props) {
             <div className={"content"}>
                 <h2>{props.desc}</h2>
                 <p>{props.comment}</p>
-                {props.source && <img src={require(props.source)} alt="This is bad alt text!" />}
+                {props.source && <img src={"https://" + props.source} alt="This is bad alt text!" />}
             </div>
-
         </div>
     );
 }

@@ -36,7 +36,7 @@ Source:
 Date: October 17, 1834
 Desc: Afong Moy, the first recorded Chinese woman to immigrate to the United States, was brought to sell furniture. She goes on to participate in PT Barnum’s freak show and other exhibits as her only means of survival and pathways to make money.
 Comment: Afong Moy was many Westerners' first encounter with Asian people. She was exoticized, commodified, and subjected to the American racialization of Asians as perpetual foreigners.
-Source: ./images/afong-moy.jpg
+Source: github.com/McGarvs/asam-timeline/blob/main/src/images/afong-moy.jpg?raw=true
 
 Date: May 1838
 Desc: First indentured coolie servants are brought to British Guiana, starting the Coolie trade.
@@ -46,7 +46,7 @@ Source:
 Date: 1849
 Desc: California Gold Rush brings rising numbers of Chinese Immigrants to California.
 Comment:
-Source: https://upload.wikimedia.org/wikipedia/commons/0/0d/California_Clipper_500.jpg
+Source: github.com/McGarvs/asam-timeline/blob/main/src/images/cal-clipper.jpg?raw=true
 
 Date: 1853
 Desc: Commodore Perry’s Expedition to Japan leads to the signing of several unequal trade treaties with Western powers, including the United States.
@@ -59,19 +59,19 @@ Comment: This failure to recognize non-white people in the eyes of the law is ah
 Source:
 
 Date: 1862
-Desc: Coolie Trade Act outlaws U.S involvement in the coolie trade
+Desc: Coolie Trade Act outlaws U.S involvement in the coolie trade.
 Comment:
 Source:
 
 Date: May 10, 1869
 Desc: Transcontinental Railroad completed with a largely Chinese immigrant workforce. Photos celebrating the completion lack inclusion of any Chinese workers.
 Comment: Chinese immigrant labor is deliberately removed from the narrative of the Transcontinental Railroad’s construction when the completion of this monumental feat was solely credited to white men in the historical canon.
-Source: https://cdn.vox-cdn.com/thumbor/m0SxDrTtpLkU7FQbga16Z29e9i4=/0x0:1280x939/1220x813/filters:focal(538x367:742x571):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/64647522/2b94f40699.7.jpeg
+Source: github.com/McGarvs/asam-timeline/blob/main/src/images/railroad.png?raw=true
 
 Date: October 24, 1871
 Desc: Following the shooting of a local police officer, the largest mass lynching in United States history occurs in Los Angeles where seventeen Chinese are lynched. A mob of nearly ten percent of the city’s population attacked and dragged Chinese people out of their homes in this violent attack.
 Comment: A potent example of Yellow Peril, with whites fearing threat of an Asian invasion. This is only one instance of how this violence tangibly manifested due to the perpetuation of xenophobia and racism in American society.
-Source: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F800%2F0*W3BnD384bZfBkkpg&f=1&nofb=1
+Source: github.com/McGarvs/asam-timeline/blob/main/src/images/massacre.jpg?raw=true
 
 Date: 1875
 Desc: The Page Act prohibits Chinese women from immigrating to the United States.
@@ -81,12 +81,12 @@ Source:
 Date: October 5, 1877
 Desc: The founding of the Workingmen’s Party of California, a political party formed by an alliance of ethnic white and Catholic Irish laborers in the 1870s that successfully ran an anti-Chinese platform with the slogan “The Chinese must go.”
 Comment: One of many examples that shows that even groups oppressed by white supremacy buy into the false racial hierarchy to oppress other minority groups.
-Source: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Fs3.timetoast.com%2Fpublic%2Fuploads%2Fphotos%2F8758913%2FScreen_Shot_2016-09-07_at_4.58.32_PM.png%3F1478701156&f=1&nofb=1
+Source: github.com/McGarvs/asam-timeline/blob/main/src/images/workingmen.png?raw=true
 
 Date: May 6, 1882
 Desc: Chinese Exclusion Act creates zones of exclusion in Asia, and imposes hard quotas, stemming most Asian emigration.
 Comment:
-Source: https://cdn.britannica.com/81/177181-050-1AC304D9/Chinese-Irish-German-immigration-Thomas-Nast-Harpers-Weekly-July-23-1870.jpg
+Source: github.com/McGarvs/asam-timeline/blob/main/src/images/exclusion.jpg?raw=true
 
 Date: 1884
 Desc: Tapes’ Case sue school board to prevent exclusion of Chinese children from public schools, and win, but must attend a segregated school.
@@ -101,7 +101,7 @@ Source:
 Date: March 28, 1898
 Desc: United States v. Wong Kim Ark affirms the principle of birthright citizenship (jus soli).
 Comment:
-Source: https://static.politico.com/dims4/default/3a751f7/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F04%2F34%2F3fa109284b6b9578319ed0cfdbe6%2Fwongkimark.gif
+Source: github.com/McGarvs/asam-timeline/blob/main/src/images/Ark.gif?raw=true
 
 Date: July 7, 1898
 Desc: Hawaii is illegally annexed by the United States, after a coup by the white plantation-owning elites.
@@ -110,13 +110,13 @@ Source:
 
 Date: 1898
 Desc: Spanish American War & Annexation of The Philippines
-Comment: The United States supports the Filipino independence movement until the end of the war, and goes on to betray the movement and Filipino people by annexing and violently colonizing the Philippines, causing the deaths of hundreds of thousands. In the colonization of the Philippines, the United States introduces the “white man’s burden” ideology and frames the violent colonization of the Philippines as a benevolent act of education, culture, and religion.
-Source: http://www.americanyawp.com/text/wp-content/uploads/UncleSamStepingStoneToChina.jpg
+Comment: The United States supports the Filipino independence movement until the end of the war, and goes on to betray the movement and Filipino people by annexing and violently colonizing the Philippines, causing the deaths of hundreds of thousands. In the colonization of the Philippines, the United States introduces the “white man’s burden” ideology and frames the violent colonization of the Philippines as a benevolent and civlizing act of education, culture, and religion.
+Source: github.com/McGarvs/asam-timeline/blob/main/src/images/stepping-stone.jpg?raw=true
 
 Date: 1908
 Desc: Gentleman’s Agreement between Japan and US govt
 Comment:
-Source: https://immigrationhistory.org/wp-content/uploads/2018/05/111006l.jpg
+Source: github.com/McGarvs/asam-timeline/blob/main/src/images/gentleman.jpg?raw=true
 
 Date: 1916
 Desc: Indian Government restricts emigration for the coolie trade.
@@ -131,7 +131,7 @@ Source:
 Date: 1922
 Desc: Takao Ozawa v United States- the Supreme Court rules that Naturalization is only for white people.
 Comment: Ozawa argued that he was eligible for naturalization based on the fact that his skin was just as white as any white mans’.
-Source: https://aaregistry.org/wp-content/uploads/2016/02/Takao-Ozawa-web.jpg
+Source: github.com/McGarvs/asam-timeline/blob/main/src/images/ozawa.jpg?raw=true
 
 Date: December 1, 1965
 Desc: Immigration and Nationality Act of 1965
@@ -141,7 +141,7 @@ Source:
 Date: 1968
 Desc: Third World Liberation Front strikes at CalState San Francisco and University of California, Berkely.
 Comment: Student and community activism create the first Ethnic Studies Programs in America, and organize in solidarity with Latinos, Native Americans, and African Americans. The continuation of Ethnic Studies today is a powerful act of resistance in which Asian Americans teach, learn, and share their histories. It is an honor to stand in solidarity with Asian American activists and participate in this class.
-Source: https://blogs.cornell.edu/asianammedia/files/2018/12/TWLF3-2c5btjf.jpg
+Source: github.com/McGarvs/asam-timeline/blob/main/src/images/twlf.jpg?raw=true
 
 Date: April 30, 1975
 Desc: The Fall of Saigon
@@ -151,7 +151,7 @@ Source:
 Date: June 19, 1982
 Desc: Two white automotive workers in Detroit, Michigan were laid off as a result of rising competition with Japanese automakers. Frustrated with their loss of jobs, they wrongfully blamed Vincent Chin, a Chinese man, and brutally beat him to death. They both plead guilty but only received three years of probation and a $3000 fine with no jail time.
 Comment: The Murder of Vincent Chin was another instance of gross injustice in the American legal system. The men received less punishment for the murder of a Chinese American man than they would have recieved if they had murdered a dog. It is truly heartbreaking to see how little Asian American lives were and are valued in the United States.
-Source: https://drive.google.com/file/d/1TIVtVo3IERb8UWb3peN2QWkiXEQvFXsU/view?usp=sharing
+Source: github.com/McGarvs/asam-timeline/blob/main/src/images/chin.png?raw=true
 
 Date: November 23, 1993
 Desc: Congress passes the Apology Resolution, apologizing for the Government’s role in the takeover of Hawaii, but the Act has no legal ramifications.
@@ -166,4 +166,4 @@ Source:
 Date: March 16, 2021
 Desc: Atlanta Spa Shootings
 Comment: The longer history of fetishizing, dehumanizing, over-sexualizing Asian and Asian American women led to violence in which Asian women in Atlanta, Georgia were murdered. This event eerily echoes ideologies and sentiments of Asian women as exotic, hypersexual, immoral, and commodified objects seen in Afong Moy’s story and the Page Act of 1875. It is evidence that we still have a long way to go in combating racism in American society.
-Source: https://d1hfln2sfez66z.cloudfront.net/03-19-2021/t_71919b8fb1e84857917ff851bb7d9bfe_name_Atlanta_spa_shootings_What_you_need_to_k_60548abfa09b1d05449c552c_1_Mar_19_2021_11_35_59_poster.jpg
+Source: github.com/McGarvs/asam-timeline/blob/main/src/images/atlanta.png?raw=true

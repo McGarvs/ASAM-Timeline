@@ -9,7 +9,7 @@ function Events(props) {
                                                     date={item.Date}
                                                     desc={item.Desc}
                                                     comment={item.Comment}
-                                                    source={"./images/afong-moy.jpg"}/>)}
+                                                    source={item.Source}/>)}
         </div>
     );
 }
